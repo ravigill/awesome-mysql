@@ -173,6 +173,9 @@ The initial commit for this list is deliberatly incomplete, in the intention tha
 - [MySQL Central](https://www.oracle.com/openworld/mysql/index.html) - Oracle's annual MySQL conference, as part of Oracle Open World.
 - [Percona Live](http://www.percona.com/live/conferences) - MySQL & Openstack focused conference.
 
+## E-Books
+
+- [The Ultimate Guide to Building Database-Driven Apps with Go](https://vividcortex.com/resources/building-database-driven-apps-with-go/) - a comprehensive book on using Go and MySQL together, taking advantage of the power of Go's database/sql interface.
 
 ## Media
 
